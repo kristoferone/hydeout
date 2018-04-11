@@ -6,3 +6,9 @@ fields:
   label: sidebar
   description: Do you want to include this in the sidebar?
   default: false
+- type: text
+  name: title
+  label: Title
+  description: Title of this post
+  config:
+    required: true
