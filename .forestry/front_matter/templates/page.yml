@@ -1,0 +1,26 @@
+---
+pages:
+- test-page.md
+hide_body: false
+fields:
+- type: boolean
+  label: 'sidebar_link:'
+  name: sidebar_link
+  default: true
+- type: text
+  name: title
+  label: Title
+  description: title
+  config:
+    required: true
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    options:
+    - default
+    - page
+    - post
+  label: layout
+  description: layout
