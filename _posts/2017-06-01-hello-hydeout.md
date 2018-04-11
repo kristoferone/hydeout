@@ -37,7 +37,7 @@ Define your own variables, then import in Hydeout's SCSS, like so:
 # Jekyll needs front matter for SCSS files
 ---
 
-$sidebar-bg-color: #ac4142;
+$sidebar-bg-color: #5F4B8B;
 $link-color: #ac4142;
 $sidebar-sticky: false;
 @import "hydeout";
