@@ -1,0 +1,8 @@
+---
+hide_body: false
+fields:
+- type: boolean
+  name: sidebar_link
+  label: sidebar
+  description: Do you want to include this in the sidebar?
+  default: false
