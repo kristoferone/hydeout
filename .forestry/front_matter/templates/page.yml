@@ -5,3 +5,9 @@ fields:
   label: 'sidebar_link:'
   name: sidebar_link
   default: true
+- type: text
+  name: title
+  label: Title
+  description: title
+  config:
+    required: true
