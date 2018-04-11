@@ -1,0 +1,7 @@
+---
+hide_body: false
+fields:
+- type: boolean
+  label: 'sidebar_link:'
+  name: sidebar_link
+  default: true
