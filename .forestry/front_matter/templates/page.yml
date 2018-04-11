@@ -13,3 +13,14 @@ fields:
   description: title
   config:
     required: true
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    options:
+    - default
+    - page
+    - post
+  label: layout
+  description: layout
