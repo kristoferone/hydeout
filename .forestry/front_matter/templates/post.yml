@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/data-viz-comparison.md
 - _posts/2018-04-11-new-post.md
 hide_body: false
 fields:
